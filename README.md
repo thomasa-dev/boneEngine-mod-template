@@ -1,5 +1,5 @@
 # Mod Template for boneEngine
-[![Button Example]][Link]
+[![Button Example]][https://google.com]
 ### Links
 Below you will find of the links related to this Repo
 * [My Guilded.gg Server](https://guilded.gg/thomas-hub "My Guilded Server")
