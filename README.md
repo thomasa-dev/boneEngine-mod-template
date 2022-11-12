@@ -1,5 +1,5 @@
 # Mod Template for boneEngine
-[<img src="https://github.com/thomasa-dev/readme-buttons/blob/main/boneEngine/myButton1.jpg" width="10%" height="10%"/>](https://google.com)
+[![Button Example]][Link]
 ### Links
 Below you will find of the links related to this Repo
 * [My Guilded.gg Server](https://guilded.gg/thomas-hub "My Guilded Server")
